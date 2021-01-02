@@ -1,3 +1,3 @@
-# Movie A--
+# Movie App
 
-React JS Foundation(2021)
+React JS Foundation (2021)
